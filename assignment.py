@@ -24,6 +24,7 @@ def conditional_check(number):
     else:
         return "Equal"
 
+
 def loop_sum(n):
     """
     Calculate sum of numbers from 1 to n using a loop.
